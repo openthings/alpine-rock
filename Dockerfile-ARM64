@@ -1,0 +1,3 @@
+FROM aarch64/alpine:edge
+
+RUN apk --update
